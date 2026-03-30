@@ -1,4 +1,5 @@
 #Complex Document QA System (PageIndex RAG)
+
 This is a vectorless RAG system that retrieves precise answers from legal documents using page-level indexing — no embeddings required.
 
  How It Works?
